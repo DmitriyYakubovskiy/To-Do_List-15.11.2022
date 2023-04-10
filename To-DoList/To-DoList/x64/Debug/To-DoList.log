@@ -1,0 +1,4 @@
+﻿  To-DoList.cpp
+D:\Программирование\Экзамены\To-Do-LIST\To-DoList\To-DoList\To-DoList.cpp(212,69): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+D:\Программирование\Экзамены\To-Do-LIST\To-DoList\To-DoList\To-DoList.cpp(584): warning C4715: SearchInArr: значение возвращается не при всех путях выполнения
+  To-DoList.vcxproj -> D:\Программирование\Экзамены\To-Do-LIST\To-DoList\x64\Debug\To-DoList.exe
